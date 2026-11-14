@@ -1,4 +1,3 @@
-# E-Commerce-User-Conversion-Funnel-Analysis
 
 # 📊 E-Commerce User Conversion & Funnel Optimization Analysis
 
